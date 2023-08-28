@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\C# _Kontr\bin\Debug\net7.0\C# _Kontr.exe
+C:\Users\Денис\Desktop\C# _Kontr\bin\Debug\net7.0\C# _Kontr.deps.json
+C:\Users\Денис\Desktop\C# _Kontr\bin\Debug\net7.0\C# _Kontr.runtimeconfig.json
+C:\Users\Денис\Desktop\C# _Kontr\bin\Debug\net7.0\C# _Kontr.dll
+C:\Users\Денис\Desktop\C# _Kontr\bin\Debug\net7.0\C# _Kontr.pdb
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\C# _Kontr.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\C# _Kontr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\C# _Kontr.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\C# _Kontr.AssemblyInfo.cs
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\C# _Kontr.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\C# _Kontr.dll
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\refint\C# _Kontr.dll
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\C# _Kontr.pdb
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\C# _Kontr.genruntimeconfig.cache
+C:\Users\Денис\Desktop\C# _Kontr\obj\Debug\net7.0\ref\C# _Kontr.dll
