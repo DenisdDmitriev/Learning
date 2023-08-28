@@ -7,7 +7,7 @@ public class JavaPractice {
         phoneBook.add("123456789", "Алиса");
         phoneBook.add("987654321", "Иван");
         phoneBook.add("456789123", "Владимир");
-        phoneBook.add("321654987", "Давид");
+        phoneBook.add("321654987", "Денис");
         phoneBook.add("789123456", "Алексадра");
         phoneBook.add("654987321", "Сергей");
         phoneBook.add("234567891", "Иван");
@@ -19,11 +19,11 @@ public class JavaPractice {
         phoneBook.add("654987321", "Владимир");
         phoneBook.add("435455423", "Владимир");
         phoneBook.add("789123446", "Викторя");
-        phoneBook.add("321654987", "Давид");
+        phoneBook.add("321654987", "Денис");
         phoneBook.add("321654987", "Виталий");
         phoneBook.add("321654987", "Виталий");
         System.out.println(phoneBook.getPhoneNum("654987321"));
-        System.out.println(phoneBook.getByName("Давид"));
+        System.out.println(phoneBook.getByName("Денис"));
         System.out.println(phoneBook.getAll());
     }
     
